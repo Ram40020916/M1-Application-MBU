@@ -1,7 +1,5 @@
 # M1_Application_MBU
 Mutual business understanding
-
-
 Folder Structure
 Folder	Description
 1_Requirements	Documents Detailing requirements and research.

@@ -1,3 +1,3 @@
 ## Waste
 
-[You link here](C:\Users\DELL\Documents\minproject\imp.c)
+[You link here](C:\Users\DELL\Documents\minproject\imp.c\)
